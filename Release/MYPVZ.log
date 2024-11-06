@@ -1,0 +1,48 @@
+﻿  main.cpp
+C:\Users\Build\source\repos\MYPVZ\main.cpp(8,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+C:\Users\Build\source\repos\MYPVZ\main.cpp(8,1): message : 之前在命令行上声明的“_CRT_SECURE_NO_WARNINGS”
+C:\Users\Build\source\repos\MYPVZ\main.cpp(152,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(181,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(184,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(183,30): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(244,46): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(244,29): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(331,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(332,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(352,20): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(353,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(455,36): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(457,18): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(458,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(489,68): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(489,43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(490,68): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(490,43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(492,24): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Build\source\repos\MYPVZ\main.cpp(955,50): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(955,36): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(974,39): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(974,25): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(989,49): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(989,35): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  tools.cpp
+C:\Users\Build\source\repos\MYPVZ\tools.cpp(90,11): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+  vector2.cpp
+C:\Users\Build\source\repos\MYPVZ\vector2.cpp(7,32): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\vector2.cpp(7,21): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\vector2.cpp(12,32): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\vector2.cpp(12,21): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\vector2.cpp(17,50): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\vector2.cpp(17,27): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\vector2.cpp(22,25): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\vector2.cpp(22,18): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\vector2.cpp(26,28): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\vector2.cpp(26,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\vector2.cpp(46,39): warning C4244: “return”: 从“double”转换到“__int64”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\vector2.cpp(51,37): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\vector2.cpp(51,19): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 65 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  MYPVZ.vcxproj -> C:\Users\Build\source\repos\MYPVZ\Release\MYPVZ.exe

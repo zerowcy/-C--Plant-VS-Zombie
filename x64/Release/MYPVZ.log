@@ -1,0 +1,76 @@
+﻿  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\Build\source\repos\MYPVZ\main.cpp(50,13): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Build\source\repos\MYPVZ\main.cpp(68,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\Build\source\repos\MYPVZ\main.cpp(68,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [11]”转换为“LPCTSTR”
+C:\Users\Build\source\repos\MYPVZ\main.cpp(68,20): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Users\Build\source\repos\MYPVZ\main.cpp(68,2): message : 尝试匹配参数列表“(IMAGE *, const char [11])”时
+C:\Users\Build\source\repos\MYPVZ\main.cpp(69,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\Build\source\repos\MYPVZ\main.cpp(69,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [13]”转换为“LPCTSTR”
+C:\Users\Build\source\repos\MYPVZ\main.cpp(69,21): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Users\Build\source\repos\MYPVZ\main.cpp(69,2): message : 尝试匹配参数列表“(IMAGE *, const char [13])”时
+C:\Users\Build\source\repos\MYPVZ\main.cpp(80,3): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\Build\source\repos\MYPVZ\main.cpp(80,3): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“char [64]”转换为“LPCTSTR”
+C:\Users\Build\source\repos\MYPVZ\main.cpp(80,27): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Users\Build\source\repos\MYPVZ\main.cpp(80,3): message : 尝试匹配参数列表“(IMAGE *, char [64])”时
+C:\Users\Build\source\repos\MYPVZ\main.cpp(89,5): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\Build\source\repos\MYPVZ\main.cpp(89,5): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“char [64]”转换为“LPCTSTR”
+C:\Users\Build\source\repos\MYPVZ\main.cpp(89,31): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Users\Build\source\repos\MYPVZ\main.cpp(89,5): message : 尝试匹配参数列表“(IMAGE *, char [64])”时
+C:\Users\Build\source\repos\MYPVZ\main.cpp(106,3): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\Build\source\repos\MYPVZ\main.cpp(106,3): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“char [64]”转换为“LPCTSTR”
+C:\Users\Build\source\repos\MYPVZ\main.cpp(106,34): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Users\Build\source\repos\MYPVZ\main.cpp(106,3): message : 尝试匹配参数列表“(IMAGE *, char [64])”时
+C:\Users\Build\source\repos\MYPVZ\main.cpp(109,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(117,2): error C2664: “char *strcpy(char *,const char *)”: 无法将参数 1 从“WCHAR [32]”转换为“char *”
+C:\Users\Build\source\repos\MYPVZ\main.cpp(117,10): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(130,1): message : 参见“strcpy”的声明
+C:\Users\Build\source\repos\MYPVZ\main.cpp(117,2): message : 尝试匹配参数列表“(WCHAR [32], const char [15])”时
+C:\Users\Build\source\repos\MYPVZ\main.cpp(129,3): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\Build\source\repos\MYPVZ\main.cpp(129,3): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“char [64]”转换为“LPCTSTR”
+C:\Users\Build\source\repos\MYPVZ\main.cpp(129,24): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Users\Build\source\repos\MYPVZ\main.cpp(129,3): message : 尝试匹配参数列表“(IMAGE *, char [64])”时
+C:\Users\Build\source\repos\MYPVZ\main.cpp(192,2): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+C:\Users\Build\source\repos\MYPVZ\main.cpp(192,2): message : “void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“char [8]”转换为“TCHAR”
+C:\Users\Build\source\repos\MYPVZ\main.cpp(192,21): message : 没有使该转换得以执行的上下文
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+C:\Users\Build\source\repos\MYPVZ\main.cpp(192,2): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“char [8]”转换为“LPCTSTR”
+C:\Users\Build\source\repos\MYPVZ\main.cpp(192,21): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Users\Build\source\repos\MYPVZ\main.cpp(192,2): message : 尝试匹配参数列表“(int, int, char [8])”时
+C:\Users\Build\source\repos\MYPVZ\main.cpp(213,5): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [22]”转换为“LPCWSTR”
+C:\Users\Build\source\repos\MYPVZ\main.cpp(213,19): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(87,1): message : 参见“mciSendStringW”的声明
+C:\Users\Build\source\repos\MYPVZ\main.cpp(213,5): message : 尝试匹配参数列表“(const char [22], int, int, int)”时
+C:\Users\Build\source\repos\MYPVZ\main.cpp(357,6): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [5]”转换为“LPCWSTR”
+C:\Users\Build\source\repos\MYPVZ\main.cpp(357,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(9180,1): message : 参见“MessageBoxW”的声明
+C:\Users\Build\source\repos\MYPVZ\main.cpp(357,6): message : 尝试匹配参数列表“(int, const char [5], const char [5], int)”时
+C:\Users\Build\source\repos\MYPVZ\main.cpp(410,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\Build\source\repos\MYPVZ\main.cpp(410,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [13]”转换为“LPCTSTR”
+C:\Users\Build\source\repos\MYPVZ\main.cpp(410,20): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Users\Build\source\repos\MYPVZ\main.cpp(410,2): message : 尝试匹配参数列表“(IMAGE *, const char [13])”时
+C:\Users\Build\source\repos\MYPVZ\main.cpp(411,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\Build\source\repos\MYPVZ\main.cpp(411,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [14]”转换为“LPCTSTR”
+C:\Users\Build\source\repos\MYPVZ\main.cpp(411,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Users\Build\source\repos\MYPVZ\main.cpp(411,2): message : 尝试匹配参数列表“(IMAGE *, const char [14])”时
+C:\Users\Build\source\repos\MYPVZ\main.cpp(412,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\Build\source\repos\MYPVZ\main.cpp(412,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [14]”转换为“LPCTSTR”
+C:\Users\Build\source\repos\MYPVZ\main.cpp(412,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Users\Build\source\repos\MYPVZ\main.cpp(412,2): message : 尝试匹配参数列表“(IMAGE *, const char [14])”时
+C:\Users\Build\source\repos\MYPVZ\main.cpp(437,5): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [18]”转换为“LPCWSTR”
+C:\Users\Build\source\repos\MYPVZ\main.cpp(437,19): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(87,1): message : 参见“mciSendStringW”的声明
+C:\Users\Build\source\repos\MYPVZ\main.cpp(437,5): message : 尝试匹配参数列表“(const char [18], int, int, int)”时
+  tools.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\Build\source\repos\MYPVZ\tools.cpp(90,11): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据

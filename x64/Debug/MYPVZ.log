@@ -1,0 +1,28 @@
+﻿  main.cpp
+C:\Users\Build\source\repos\MYPVZ\main.cpp(89,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Build\source\repos\MYPVZ\main.cpp(151,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(180,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(183,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(182,30): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(159,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Build\source\repos\MYPVZ\main.cpp(243,46): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(243,29): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(330,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(331,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(351,20): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(352,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(454,36): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(456,18): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(457,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(488,68): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(488,43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(489,68): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(489,43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(491,24): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Build\source\repos\MYPVZ\main.cpp(954,50): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(954,36): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(973,39): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(973,25): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(988,49): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Build\source\repos\MYPVZ\main.cpp(988,35): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  MYPVZ.vcxproj -> C:\Users\Build\source\repos\MYPVZ\x64\Debug\MYPVZ.exe
